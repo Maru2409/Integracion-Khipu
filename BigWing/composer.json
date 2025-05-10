@@ -1,0 +1,11 @@
+{
+    "require": {
+      "khipu/khipu-api-client": "^2.9"
+    },
+    "autoload": {
+      "psr-4": {
+        "Khipu\\": "vendor/khipu/khipu-api-client/lib/"
+      }
+    }
+  }
+  
